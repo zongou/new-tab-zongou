@@ -1,6 +1,8 @@
 {
+"update_url": "https://clients2.google.com/service/update2/crx",
+
   "name": "Material Design New Tab",
-  "version": "1.8.0",
+  "version": "1.8.7.2",
   "manifest_version": 2,
   "default_locale": "en",
   "description": "__MSG_appDescription__",
@@ -19,9 +21,6 @@
     "storage",
     "management",
     "bookmarks",
-    "background",
-    "geolocation",
-    "<all_urls>"
-  ],
-  "content_security_policy": "script-src 'self' 'unsafe-eval' http://localhost:5001; object-src 'self'"
+    "geolocation"
+  ]
 }
