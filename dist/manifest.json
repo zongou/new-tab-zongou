@@ -21,6 +21,7 @@
     "storage",
     "management",
     "bookmarks",
-    "geolocation"
+    "geolocation",
+    "<all_urls>"
   ]
 }
