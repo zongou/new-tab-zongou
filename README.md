@@ -9,9 +9,9 @@
 
 A Chrome new tab page extension with **Material Design**.
 
-![Screenshot](https://lh3.googleusercontent.com/gDaDhxRdfd39Etou9ry-X8Lm8KH9qi5hxea8yZs7Y_zCRjMrEMb1-qbXKqYtG4Bq3PGffxTF=s640-h400-e365)
+![Screenshot](https://raw.githubusercontent.com/zongou/Extensions/master/MD_NTP_Screenshot.jpg)
 
-## [Install from the Chrome Web Store](https://chrome.google.com/webstore/detail/material-design-new-tab/kgfodmcknjlgkbgkkafogbdaibkfgdgo)
+## [Download the latest](https://github.com/zongou/new-tab-zongou/releases)
 
 ## Features
 - Switchable search engines
@@ -20,17 +20,6 @@ A Chrome new tab page extension with **Material Design**.
 - Weather information
 - Chrome apps and bookmarks
 - Customizable settings
-
-## Browser Support
-- Chrome 50+
-
-## Feedback
-Please create an issue if you have any questions or suggestions about it.
-
-## Thanks
-Special thanks to those who make this extension support more languages.
-- **Russian** @Руслан Чешневский
-- **Bulgarian** @Martin Minchev
 
 ## Donation
 If you find the extension useful, you can buy me a cup of coffee.  
