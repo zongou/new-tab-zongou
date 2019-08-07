@@ -2,7 +2,7 @@
   <img src="dist/icons/icon@128.png" width="64" alt="LOGO" />
 </div>
 
-# [Material Design New Tab](https://tab.xiejie.co)
+# Material Design New Tab
 
 [![Powered by](https://img.shields.io/badge/Powered%20by-material--ui-green.svg)](http://www.material-ui.com)
 
