@@ -32,7 +32,7 @@ If you find the extension useful, you can buy me a cup of coffee.
 The `DONATE` button at settings page.💖
 
 ## 特点
-可切换的搜索引擎
+- 可切换的搜索引擎
 - 管理您喜欢的网站
 - 个性化桌面
 - 天气信息
