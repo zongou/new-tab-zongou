@@ -785,7 +785,7 @@ class Navigation extends Component {
                         label={name}
                         href={link}
                         target={target}
-                        icon={<img className="favicon" src={`https://t0.gstatic.cn/faviconV2?url=${link}&client=chrome&drop_404_icon=true&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL`}  alt={name} onError={this.imgError} />}
+                        icon={<img className="favicon" src={`https://t0.gstatic.cn/faviconV2?url=${link}&client=chrome&drop_404_icon=true&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL`}  alt={name} onError={this.imgError} />}
                         className="website-link"
                         style={style.website}
                         labelStyle={labelStyle}
@@ -851,7 +851,7 @@ class Navigation extends Component {
                             label={name}
                             href={link}
                             target={target}
-                            icon={<img className="favicon" src={`https://t0.gstatic.cn/faviconV2?url=${link}&client=chrome&drop_404_icon=true&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL`} alt={name} onError={this.imgError} />}
+                            icon={<img className="favicon" src={`https://t0.gstatic.cn/faviconV2?url=${link}&client=chrome&drop_404_icon=true&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL`} alt={name} onError={this.imgError} />}
                             className="website-link"
                             style={style.website}
                             labelStyle={labelStyle}
