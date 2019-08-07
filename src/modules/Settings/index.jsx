@@ -406,7 +406,7 @@ class Settings extends Component {
                   <p className="name">
                   <span>Material Design New Tab </span>
                     <a
-                      href={chrome.i18n.getUILanguage() === 'zh-CN' ? 'https://github.com/zongou/Extensions/tree/master/Material-Design-NTP' : 'https://github.com/zongou/Extensions/tree/master/Material-Design-NTP'}
+                      href={chrome.i18n.getUILanguage() === 'zh-CN' ? 'https://github.com/zongou/new-tab-zongou/releases' : 'https://github.com/zongou/new-tab-zongou/releases'}
                       target="_blank"
                     >
                       <FlatButton label={chrome.runtime.getManifest().version} />
