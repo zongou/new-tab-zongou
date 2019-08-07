@@ -21,7 +21,7 @@ A Chrome new tab page extension with **Material Design**.
 - Customizable settings
 
 ## User Guide on Kiwi Browser
-- Open Extensions, avtivate Developer mode
+- Open Extensions, activate Developer mode
 - Load the .crx file
 - Activate the extension
 - Open setting--Home page--set homepage URL as chrome://newtab
