@@ -20,6 +20,13 @@ A Chrome new tab page extension with **Material Design**.
 - Chrome apps and bookmarks
 - Customizable settings
 
+## User Guide on Kiwi Browser
+- Open Extensions, avtivate Developer mode
+- Load the .crx file
+- Activate the extension
+- Open setting--Home page--set homepage URL as chrome://newtab
+- All done!
+
 ## Donation
 If you find the extension useful, you can buy me a cup of coffee.  
 The `DONATE` button at settings page.💖
