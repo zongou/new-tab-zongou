@@ -1,0 +1,17 @@
+npm run build
+cd path 
+npm install
+chrome.exe --pack-extension="C:\Users\zongou\new-tab-1.8.8\dist" --pack-extension-key="E:\web\operating\Material-Design-NTP.pem"
+chrome.exe --lan=zh_CN
+
+In the command-line, navigate to your local repository.
+Ensure you are in the default branch:
+git checkout master
+The rm -r command will recursively remove your folder:
+git rm -r folder-name
+Commit the change:
+git commit -m "Remove duplicated directory"
+Push the change to your remote repository:
+git push origin master
+git clone --brach [tag] [git URL]
+git clone --branch v1.8.7 https://github.com/zongou/new-tab-zongou.git
