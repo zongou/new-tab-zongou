@@ -49,7 +49,7 @@ const style = {
   website: {
     width: '150px',
     textAlign: 'left',
-    fontSize: 15,
+    fontSize: 17,
     transition: 'background-color 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms'
   },
   dialogContent: {
@@ -691,7 +691,7 @@ class Navigation extends Component {
         }
       }
     }
-    const labelStyle = { fontSize: 15, color: labelColor, textShadow }
+    const labelStyle = { fontSize: 17, color: labelColor, textShadow }
     
     const actions = [
       <FlatButton
